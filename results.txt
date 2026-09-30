@@ -1,0 +1,42 @@
+************************************************************
+File LHR2025.csv selected - London Heathrow 2025
+************************************************************
+Total flights: 490
+Terminal 2 flights: 106
+Flights under 600 miles: 231
+Air France flights: 67
+Flights below 15 degrees: 156
+Avg BA flights per hour: 13.25
+BA percentage: 32.45%
+AF delayed percentage: 31.34%
+Rain hours: 5
+Least common destinations: ['Madrid Adolfo Suárez-Barajas']
+
+************************************************************
+File LHR2025.csv selected - London Heathrow 2025
+************************************************************
+Total flights: 490
+Terminal 2 flights: 106
+Flights under 600 miles: 231
+Air France flights: 67
+Flights below 15 degrees: 156
+Avg BA flights per hour: 13.25
+BA percentage: 32.45%
+AF delayed percentage: 31.34%
+Rain hours: 5
+Least common destinations: ['Madrid Adolfo Suárez-Barajas']
+
+************************************************************
+File LHR2025.csv selected - London Heathrow 2025
+************************************************************
+Total flights: 490
+Terminal 2 flights: 106
+Flights under 600 miles: 231
+Air France flights: 67
+Flights below 15 degrees: 156
+Avg BA flights per hour: 13.25
+BA percentage: 32.45%
+AF delayed percentage: 31.34%
+Rain hours: 5
+Least common destinations: ['Madrid Adolfo Suárez-Barajas']
+
